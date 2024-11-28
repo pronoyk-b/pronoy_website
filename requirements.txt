@@ -1,0 +1,4 @@
+nbformat
+nbconvert
+beautifulsoup4
+jupyter
